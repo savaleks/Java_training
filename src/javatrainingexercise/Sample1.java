@@ -9,7 +9,7 @@ public class Sample1 {
         System.out.printf("Integer Value :%d\n", box.getData());
         System.out.println("======================");
 
-        Box rawBox = new Box();  //making new object rawBox;
+        Box rawBox = new Box();  //making new object rawBox
 
         //No warning
         rawBox = box;
